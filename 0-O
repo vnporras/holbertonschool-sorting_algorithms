@@ -1,0 +1,7 @@
+Function thatsorts an array of integers in ascending order using the Bubble sort algorithm.
+
+The big O notations of the time complexity of the Bubble sort algorithm :
+
+- in the best case: O(n)
+- in the average case: O(n^2)
+- in the worst case:O(n^2)
